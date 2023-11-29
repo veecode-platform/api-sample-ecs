@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "api-sample-ecs"
+  description: "api-sample-ecs"
+  annotations:
+    github.com/project-slug: veecode-platform/api-sample-ecs
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: devops
+  lifecycle: development
+  owner: "group:default/admin"

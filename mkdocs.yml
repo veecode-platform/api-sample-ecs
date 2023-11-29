@@ -1,0 +1,8 @@
+site_name: "api-sample-ecs"
+site_description: "api-sample-ecs"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
